@@ -41,6 +41,7 @@ dependencies:
   path_provider: ^2.0.14
   shared_preferences: ^2.1.0
   animations: ^2.0.7
+  go_router: ^6.5.8
   flutter_markdown: ^0.6.14
 
   # google
