@@ -36,6 +36,28 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
 
+  # flutter.dev
+  url_launcher: ^6.1.10
+  path_provider: ^2.0.14
+  shared_preferences: ^2.1.0
+  animations: ^2.0.7
+  flutter_markdown: ^0.6.14
+
+  # google
+  visibility_detector: ^0.4.0
+
+  # dart.dev
+  intl: ^0.18.1
+  http: ^0.13.5
+
+  # 3rd party
+  logger: ^1.3.0
+  dio: ^5.1.1
+  lottie: ^2.3.2
+  flutter_riverpod: ^2.3.6
+  stomp_dart_client: ^0.4.4
+  flutter_svg: ^2.0.5
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
