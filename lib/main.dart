@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Backoffice',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        fontFamily: 'Pretendard'
       ),
       home: const MainScreen(),
     );
